@@ -1,7 +1,7 @@
 # Content 
 
 # Responsive Web Design
-- <a href="/ModuleBuilds/FreeCodeCamp/CatSurveyForm/index.html"> Cat Photo App (HTML) </a>
+- <a href="../FreeCodeCamp/CatSurveyForm/index.html"> Cat Photo App (HTML) </a>
 
 <p align="center">
   <img src="./images/assets/1.0.png" width="350" title="1.0">
@@ -12,15 +12,16 @@
 
 In this course, I learnt the most common HTML tags by building your own cat photo app.</p>
 
-- <a href="/ModuleBuilds/FreeCodeCamp/CafeMenu/index.html">Cafe menu (HTML)</a>
-<p>CSS tells the browser how to display your webpage. You can use CSS to set the color, font, size, and other aspects of HTML elements.
+- <a href="../FreeCodeCamp/CafeMenu/index.html">Cafe menu (HTML)</a>
 
-In this course, I learnt CSS by designing a menu page for a cafe webpage.</p>
-- <a href="/ModuleBuilds/FreeCodeCamp/CafeMenu/styles.css">(CSS)</a>
+- <a href="../FreeCodeCamp/CafeMenu/styles.css">(CSS)</a>
 <p align="center">
   <img src="./images/assets/2.png" width="350" title="hover text">
 </p>
-- <a href="/Projects/ModuleBuilds/FreeCodeCamp/ColorMakers/styles.css">Colored Markers </a>
+<p>CSS tells the browser how to display your webpage. You can use CSS to set the color, font, size, and other aspects of HTML elements.
+
+In this course, I learnt CSS by designing a menu page for a cafe webpage.</p>
+- <a href="../FreeCodeCamp/ColorMakers/styles.css">Colored Markers </a>
 <p align="center">
   <img src="./images/assets/3.0.png" width="350" title="hover text">
 </p>
